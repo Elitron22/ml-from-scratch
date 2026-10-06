@@ -6,4 +6,4 @@ Each project lives in its own folder under `projects/` and has its own setup ins
 
 ## Projects
 
-- [MNIST neural network](projects/mnist-neural-network/README.md): a starting point for building a handwritten digit classifier from scratch. The dataset loader is ready; the neural network is yours to implement.
+- [MNIST neural network](projects/mnist-neural-network/README.md): one notebook for exploring the dataset and building a handwritten digit classifier from scratch. The neural network is yours to implement.
